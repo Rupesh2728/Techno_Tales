@@ -3,7 +3,6 @@
 <h3 align="center">The goal of this project is to create a search engine tailored for retrieving technology news articles</h3>
 
 <h2 align="left">Tech Stack and Tools :</h2>
-<h3 align="right">Logo Design</h3>
 <img align="right" alt="Logo" width="250" height="180" src="./Frontend/src/Assests/Logo.png">
 
 <p align="left">
