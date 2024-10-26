@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="150" height="100"/> </a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Python" width="130" height="80"/> </a>
-<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/5e88d074346eb835a7e65af5/4c74fbfc-5e9a-4158-aeb2-b81fc4d4f5af/Beautiful+soup_Logo_2022blue.png" alt="Python" width="150" height="80"/> </a>
+<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/5e88d074346eb835a7e65af5/4c74fbfc-5e9a-4158-aeb2-b81fc4d4f5af/Beautiful+soup_Logo_2022blue.png" alt="Python" width="190" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
 </p>
