@@ -2,13 +2,14 @@
 <h3 align="center">Search Engine for News Document Retrieval - Tech News</h3>
 <h3 align="center">The goal of this project is to create a search engine tailored for retrieving technology news articles</h3>
 
-<h2 align="left">Libraries and Packages:</h2>
+<h2 align="left">Tech Stack and Tools :</h2>
+<h3 align="right">Logo Design</h3>
 <img align="right" alt="Logo" width="250" height="180" src="./Frontend/src/Assests/Logo.png">
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="170" height="120"/> </a>
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Python" width="170" height="120"/> </a>
-<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEfjKQQKVS1VAaxAe3Tr5l5vaquaIouibPQ&s" alt="Python" width="170" height="120"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="80" height="80"/> </a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Python" width="80" height="80"/> </a>
+<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEfjKQQKVS1VAaxAe3Tr5l5vaquaIouibPQ&s" alt="Python" width="80" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
 </p>
@@ -21,7 +22,7 @@
 - **Links Collection from tech-crunch** : All the articles released on a particular date are arranged under the URL which looks link **https://www.techcrunch.com/dd-mm-yyyy/**.
 We sent request to this link by iterating the date from June 6th 2005 to November 25th 2023.
 
-- **Source Website** : <a href="https://www.techcrunch.com"></a>
+- **Source Website** : https://www.techcrunch.com
 
 - **Fetching Data from links** : After collecting all the links, iteratively requests were sent to every link and parsed the response using beautiful-Soup library.
 
