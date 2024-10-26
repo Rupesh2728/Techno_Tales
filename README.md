@@ -1,6 +1,8 @@
 ﻿﻿<h1 align="center">Techno Tales</h1>
 <h3 align="center">Search Engine for News Document Retrieval - Tech News</h3>
 <h3 align="center">The goal of this project is to create a search engine tailored for retrieving technology news articles</h3>
+<h4 align="center">The result is an operational search engine capable of efficiently retrieving relevant technology news articles based on user queries</h4>
+
 
 <h2 align="left">Tech Stack and Tools :</h2>
 <h3 align="right">Logo Design</h3>
@@ -23,6 +25,8 @@
 - **Links Collection from tech-crunch** : All the articles released on a particular date are arranged under the URL which looks link **https://www.techcrunch.com/dd-mm-yyyy/**.
 We sent request to this link by iterating the date from June 6th 2005 to November 25th 2023.
 
+- The dataset comprises around 1,09,000 documents.
+  
 - **Source Website** : https://www.techcrunch.com
 
 - **Fetching Data from links** : After collecting all the links, iteratively requests were sent to every link and parsed the response using beautiful-Soup library.
