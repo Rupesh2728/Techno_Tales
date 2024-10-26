@@ -3,7 +3,7 @@
 <h3 align="center">The goal of this project is to create a search engine tailored for retrieving technology news articles</h3>
 
 <h2 align="left">Libraries and Packages:</h2>
-<img align="right" alt="Logo" width="350" height="280" src="./Frontend/src/Assests/Logo.png">
+<img align="right" alt="Logo" width="250" height="180" src="./Frontend/src/Assests/Logo.png">
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="170" height="120"/> </a>
