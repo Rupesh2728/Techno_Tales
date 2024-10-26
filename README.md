@@ -3,6 +3,7 @@
 <h3 align="center">The goal of this project is to create a search engine tailored for retrieving technology news articles</h3>
 
 <h2 align="left">Tech Stack and Tools :</h2>
+<h3 align="right">Logo Design</h3>
 <img align="right" alt="Logo" width="250" height="180" src="./Frontend/src/Assests/Logo.png">
 
 <p align="left">
@@ -12,6 +13,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
 </p>
+
 
 <h2 align="left">Work Flow</h2>
 <img src="./IR_WorkFlow.jpg" alt="Work Flow" width="1000" height="500"/>
