@@ -7,15 +7,15 @@
 <img align="right" alt="Logo" width="250" height="180" src="./Frontend/src/Assests/Logo.png">
 
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="80" height="80"/> </a>
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Python" width="80" height="80"/> </a>
-<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEfjKQQKVS1VAaxAe3Tr5l5vaquaIouibPQ&s" alt="Python" width="80" height="80"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://learnersgalaxy.ai/wp-content/uploads/2024/01/Python-Symbol.png" alt="Python" width="150" height="100"/> </a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Python" width="130" height="80"/> </a>
+<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"> <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEfjKQQKVS1VAaxAe3Tr5l5vaquaIouibPQ&s" alt="Python" width="130" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
 </p>
 
 <h2 align="left">Work Flow</h2>
-<img src="./IR_WorkFlow.jpg" alt="tailwind" width="1000" height="500"/>
+<img src="./IR_WorkFlow.jpg" alt="Work Flow" width="1000" height="500"/>
 
 <h3 align="left">Data Collection</h3>
 
