@@ -83,16 +83,6 @@ We sent request to this link by iterating the date from June 6th 2005 to Novembe
 
 - Download All the 7 JSON files present in "JsonFiles" folder from above drive link.
 
-  ```bash
-   # Create a empty folder named "IRDataset"
-   mkdir IRDataset
-
-   # Navigate into IRDataset folder
-   mkdir JsonFiles
-  ```
-
-- Place those 7 files, inside the folder named "JsonFiles" in "IRDataset" folder that is present in "Search_Engine_Server" folder.
-
 - Follow below instructions for complete setup of the project
 
   
@@ -106,6 +96,21 @@ cd Techno_Tales-main
 
 <h3 align="left">Server Setup :</h3>
 
+```bash
+    # Navigate to the Search_Engine_Server folder 
+    cd Search_Engine_Server
+
+   # Create a empty folder named "IRDataset"
+   mkdir IRDataset
+
+   # Navigate into IRDataset folder
+   mkdir JsonFiles
+  ```
+
+- Place those 7 files, inside the folder named "JsonFiles" in "IRDataset" folder that is present in "Search_Engine_Server" folder.
+
+- Continue to follow below instructions for complete the remaining setup of the project.
+  
 ```bash
 # Navigate to the Search_Engine_Server folder 
 cd Search_Engine_Server
