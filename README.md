@@ -71,9 +71,11 @@ We sent request to this link by iterating the date from June 6th 2005 to Novembe
 
 - Analyze performance using Precision-Recall (P-R) curve after marking retrieved documents as relevant or non-relevant.
 
+All the files for above steps are available in the **LogicFiles** folder inside **Search_Engine_Server**
+
 
 <h2 align="left">Installation</h2>
-<h3>To get started with this project, clone the repository and install the necessary libraries in your system</h3>
+To get started with this project, clone the repository and install the necessary libraries in your system
 
 <h3>Primary Steps to be followed :</h3>
 
@@ -81,11 +83,10 @@ We sent request to this link by iterating the date from June 6th 2005 to Novembe
 
 - https://drive.google.com/drive/folders/1w-MOcWZxe9dN9Ts2SIGq1txZMIx8VJhf?usp=sharing
 
-- Download All the 7 JSON files present in "JsonFiles" folder from above drive link.
+- Download All the 7 JSON files present in **JsonFiles** folder from above drive link.
 
 - Follow below instructions for complete setup of the project
 
-  
 ```bash
 # Clone the repository
 git clone https://github.com/Rupesh2728/Techno_Tales.git
@@ -107,7 +108,7 @@ cd Techno_Tales-main
    mkdir JsonFiles
   ```
 
-- Place those 7 files, inside the folder named "JsonFiles" in "IRDataset" folder that is present in "Search_Engine_Server" folder.
+- Place those 7 files, inside the folder named **JsonFiles** in **IRDataset** folder that is present in **Search_Engine_Server** folder.
 
 - Continue to follow below instructions for complete the remaining setup of the project.
   
@@ -161,7 +162,6 @@ The Files are Loaded in to the Server.....
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="./GameImg3.jpg" alt="react" width="300" height="500"/> 
 </a>
-
 
 <h2 align="left">Contact Me</h2>
 
