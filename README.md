@@ -75,15 +75,64 @@ We sent request to this link by iterating the date from June 6th 2005 to Novembe
 <h2 align="left">Installation</h2>
 <h3>To get started with this project, clone the repository and install the necessary libraries in your system</h3>
 
+<h3>Primary Steps to be followed :</h3>
+
+- You may find the dataset and JSON Files in the below drive link
+
+- https://drive.google.com/drive/folders/1w-MOcWZxe9dN9Ts2SIGq1txZMIx8VJhf?usp=sharing
+
+- Download All the 7 JSON files present in "JsonFiles" folder from above drive link.
+
+- Place those 7 files, inside the folder named "JsonFiles" in "IRDataset" folder that is present in "Search_Engine_Server" folder.
+
+- Follow below instructions for complete setup of the project
+
+  
 ```bash
 # Clone the repository
-git clone https://github.com/Rupesh2728/Tom-and-Jerry-Free-Fall-Frenzy---Multimedia-Systems.git
+git clone https://github.com/Rupesh2728/Techno_Tales.git
 
 # Navigate to the project directory
-cd Tom-and-Jerry-Free-Fall-Frenzy---Multimedia-Systems-main
+cd Techno_Tales-main
+```
 
-# Run the code
-python Main.py
+<h3 align="left">Server Setup :</h3>
+
+```bash
+# Navigate to the Search_Engine_Server folder 
+cd Search_Engine_Server
+
+#  Check your pip version
+python -m pip --version
+
+# Make sure to have pip or pip3 installed
+python.exe -m pip install --upgrade pip  (or) python.exe -m pip install --upgrade pip --user
+
+# Install the required Python packages using the command
+pip install -r requirements.txt --user
+
+# Run the main server file
+ python Server.py
+
+# Allow the server, (B/w 90-100 Seconds) to load all the files
+```
+
+<h3 align="left">Client Setup :</h3>
+
+```bash
+# Navigate to the Search_Engine_Server folder 
+cd Frontend
+
+# Install the required Node.js modules
+npm install
+
+# Start the React application
+npm start
+
+# Make sure the server is ready to accept the requests and wait until the below message is poped-up
+The Files are Loaded in to the Server.....
+
+# Now, give the query input in the frontend application
 ```
 
 
